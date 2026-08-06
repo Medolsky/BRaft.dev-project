@@ -1,0 +1,17 @@
+# Security Secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+dist/
+.vite/
+
+# OS metadata
+.DS_Store
+Thumbs.db
